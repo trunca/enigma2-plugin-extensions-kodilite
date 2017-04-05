@@ -1,0 +1,82 @@
+
+##### Movies (many items include tv)####
+plugin.video.specto###http://kodi.filmkodi.com/plugin.video.specto/plugin.video.specto-2016.09.01.1.zip###http://kodi.filmkodi.com/plugin.video.specto/###
+plugin.video.exodus###https://offshoregit.com/exodus/plugin.video.exodus/plugin.video.exodus-1.1.1.zip###https://offshoregit.com/exodus/plugin.video.exodus/###
+plugin.video.1080pmovies_gw###http://www.vectordroid.com/repo/1.%20VIDEO%20ADDONS%20-%202017%20COLLECTION/plugin.video.1080pmovies_gw-1.0.3.zip###http://www.vectordroid.com/repo/1.%20VIDEO%20ADDONS%20-%202017%20COLLECTION/###
+
+##### TV ####
+
+plugin.video.irish.tv###http://xtyrepo.me/xunitytalk/addons/plugin.video.irish.tv/plugin.video.irish.tv-0.2.5.zip###http://xtyrepo.me/xunitytalk/addons/plugin.video.irish.tv/###
+plugin.video.bbciplaye###https://offshoregit.com/pcd/pcd-repo/plugin.video.bbciplayer/plugin.video.bbciplayer-1.0.0.zip###
+
+
+##### Sport ####
+plugin.video.SportsDevil###https://offshoregit.com/pcd/pcd-repo/plugin.video.SportsDevil/plugin.video.SportsDevil-1.0.0.zip###
+plugin.video.wweonline###https://offshoregit.com/pcd/pcd-repo/plugin.video.wweonline/plugin.video.wweonline-1.0.0.zip###
+
+
+##### IPTV ####
+plugin.video.iptvupdater###https://offshoregit.com/pcd/pcd-repo/plugin.video.iptvupdater/plugin.video.iptvupdater-1.0.0.zip###
+plugin.video.phstreams###https://offshoregit.com/pcd/pcd-repo/plugin.video.phstreams/plugin.video.phstreams-1.0.0.zip###
+plugin.video.uiptv###https://offshoregit.com/pcd/pcd-repo/plugin.video.uiptv/plugin.video.uiptv-1.0.0.zip###
+
+
+##### Kids & Fun ####
+plugin.video.disneyjunior###http://xtyrepo.me/xunitytalk/addons/plugin.video.disneyjunior/plugin.video.disneyjunior-1.3.1.zip###http://xtyrepo.me/xunitytalk/addons/plugin.video.disneyjunior/###
+plugin.video.cartoons8###https://offshoregit.com/pcd/pcd-repo/plugin.video.cartoons8/plugin.video.cartoons8-1.0.0.zip###
+
+
+##### Music Youtube & Co ####
+plugin.video.dailymotion_com###https://github.com/kodinerds/repo/raw/master/plugin.video.dailymotion_com/plugin.video.dailymotion_com-2.2.4.zip###https://github.com/kodinerds/repo/tree/master/plugin.video.dailymotion_com###
+plugin.video.youtube###https://github.com/Kolifanes/plugin.video.youtube/releases/download/5.3.7/plugin.video.youtube-5.3.7.zip###
+plugin.video.ytplus###https://offshoregit.com/pcd/pcd-repo/plugin.video.ytplus/plugin.video.ytplus-1.0.0.zip###
+
+##### Adult(18+) Protect with Parental PIN ####
+
+plugin.video.jizzplanet###https://github.com/kodil/kodil/raw/master/repo/plugin.video.jizzplanet/plugin.video.jizzplanet-1.1.1.zip###https://github.com/kodil/kodil/tree/master/repo/plugin.video.jizzplanet###
+plugin.video.adulthideout###https://github.com/Vashiel/repository.adulthideout/raw/master/zips/plugin.video.adulthideout/plugin.video.adulthideout-0.7.6.zip###https://github.com/Vashiel/repository.adulthideout/tree/master/zips/plugin.video.adulthideout###
+plugin.video.b44###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.b44/plugin.video.b44-1.0.0.zip###
+plugin.video.camtubechat###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.camtubechat/plugin.video.camtubechat-1.0.0.zip###
+plugin.video.Dclip###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.Dclip/plugin.video.Dclip-1.0.0.zip###
+plugin.video.heavyr###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.heavyr/plugin.video.heavyr-1.0.0.zip###
+plugin.video.motherless###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.motherless/plugin.video.motherless-1.0.0.zip###
+pluplugin.video.nvista###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.nvista/plugin.video.nvista-1.0.0.zip###
+plugin.video.Spicytranny###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.Spicytranny/plugin.video.Spicytranny-1.0.0.zip###
+plugin.video.Superzooi###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.Superzooi/plugin.video.Superzooi-1.0.0.zip###
+plugin.video.twanza###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.twanza/plugin.video.twanza-1.0.0.zip###
+plugin.video.wildfire2###https://offshoregit.com/pcd/pcdadult-repo/plugin.video.wildfire2/plugin.video.wildfire2-1.0.0.zip###
+
+##### International ####
+-------------------------- Deutsche --------------------------
+plugin.video.xstream-nightly###https://offshoregit.com/pcd/pcd-repo/plugin.video.xstream-nightly/plugin.video.xstream-nightly-1.0.0.zip###
+plugin.video.arte_tv###https://raw.githubusercontent.com/kodinerds/repo/master/plugin.video.arte_tv/plugin.video.arte_tv-2.9.6.zip###https://raw.githubusercontent.com/kodinerds/repo/master/addons.xml###
+plugin.video.atv_at###https://raw.githubusercontent.com/kodinerds/repo/master/plugin.video.atv_at/plugin.video.atv_at-2.7.0.zip###https://raw.githubusercontent.com/kodinerds/repo/master/addons.xml###
+plugin.video.br3###https://raw.githubusercontent.com/kodinerds/repo/master/plugin.video.br3/plugin.video.br3-0.7.8.zip###https://raw.githubusercontent.com/kodinerds/repo/master/addons.xml###
+plugin.video.dmax_de###https://raw.githubusercontent.com/kodinerds/repo/master/plugin.video.dmax_de/plugin.video.dmax_de-1.1.14.zip###https://raw.githubusercontent.com/kodinerds/repo/master/addons.xml###
+plugin.video.euronews_com###https://raw.githubusercontent.com/kodinerds/repo/master/plugin.video.euronews_com/plugin.video.euronews_com-2.0.18.zip###https://raw.githubusercontent.com/kodinerds/repo/master/addons.xml###
+plugin.video.zdf_de_lite###https://offshoregit.com/pcd/pcd-repo/plugin.video.zdf_de_lite/plugin.video.zdf_de_lite-1.0.0.zip###
+
+-------------------------- French --------------------------
+
+plugin.video.vstream###https://offshoregit.com/pcd/pcd-repo/plugin.video.vstream/plugin.video.vstream-1.0.0.zip###
+
+
+-------------------------- Indian/Pakistani --------------------------
+plugin.video.dramasonline###https://offshoregit.com/pcd/pcd-repo/plugin.video.dramasonline/plugin.video.dramasonline-1.0.0.zip###
+
+
+-------------------------- Italian(it) --------------------------
+
+plugin.video.streamondemand###https://github.com/streamondemand/plugin.video.streamondemand/releases/download/plugin.video.streamondemand-v5.4.9/plugin.video.streamondemand-v5.4.9.zip###https://github.com/streamondemand/plugin.video.streamondemand/releases###
+plugin.video.raitv###https://offshoregit.com/pcd/pcd-repo/plugin.video.raitv/plugin.video.raitv-1.0.0.zip###
+
+
+-------------------------- Spanish --------------------------
+
+plugin.video.Catoal###http://raw.github.com/catoalkodi/repository.catoal/master/repo/plugin.video.Catoal/plugin.video.Catoal-5.3.8.zip###https://raw.githubusercontent.com/catoalkodi/repository.catoal/master/addons.xml###
+plugin.video.tvalacarta###http://blog.tvalacarta.info/descargas/tvalacarta-kodi-jarvis-4.0.4.zip###
+plugin.video.cine###https://github.com/catoalkodi/repository.catoal/raw/master/repo/plugin.video.cine/plugin.video.cine-1.0.23.zip###https://github.com/catoalkodi/repository.catoal/tree/master/repo/plugin.video.cine###
+
+-------------------------- Turkish --------------------------
+plugin.video.ukturk###https://offshoregit.com/pcd/pcd-repo/plugin.video.ukturk/plugin.video.ukturk-1.0.0.zip###
+
